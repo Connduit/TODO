@@ -1,0 +1,11 @@
+# TODO
+- cli trading chart?
+- qcb game/visualizer (birds eye view) or maybe study guide?
+- Circles/Who-Owns-Who (WHO):
+  - map social circles (using followers/followings)
+  - map out relationships, family trees, political allegiance/donations, social circles
+  - algs: louvain clustering, girvan-newman
+- Stylometry (to be used to help map identify differnt accounts that belong to the same user)
+  - collect data, extract features from text, compare feature vectors, classification, deep learning (long run)
+- Architecture
+  - notes for proper c/c++ conventions for syntax, naming, structure, and etc
