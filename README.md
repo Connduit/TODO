@@ -9,3 +9,4 @@
   - collect data, extract features from text, compare feature vectors, classification, deep learning (long run)
 - Architecture
   - notes for proper c/c++ conventions for syntax, naming, structure, and etc
+- free, open source, messaging app
